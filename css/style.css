@@ -1,0 +1,18 @@
+.name-input{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.name-input input{
+    background-color: #fff;
+    border-color: #cacadb !important;
+    border-radius: 0.5rem;
+    border-style: solid !important;
+    border-width: 1px !important;
+    color: #151226;
+    font-size: 16px;
+    font-weight: 600;
+    height: 46px;
+    padding: 11px 15px;
+    width: 100%;
+}
