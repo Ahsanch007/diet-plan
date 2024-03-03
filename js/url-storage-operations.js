@@ -1,0 +1,1 @@
+!function(){"use strict";document.addEventListener("DOMContentLoaded",(function(){var e;(e=document.querySelector(".js-diet.js-open-warning-modal")||document.querySelector(".js-burger-menu-change-daily-recipes"))&&e.addEventListener("click",(function(){var e=window.location.href;localStorage.setItem("currentUrl",e)}))}))}();
